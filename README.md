@@ -1,6 +1,6 @@
 # ⚡ Wind Energy Feasibility Dashboard – Team AeroDash
 > ✅ *A final project submitted for the* **1M1B Green Internship 2025**
-Want to look at it?
+> Want to look at it?
 https://public.tableau.com/app/profile/suchitra.koyya/viz/AERODASH-WINDENERGYFEASIBILITYDASHBOARD/Dashboard2
 
 > A powerful, interactive dashboard built using **Tableau**, backed by **SARIMA modeling** and **Meteostat** weather data, to forecast wind energy potential and assess feasibility of windmill installations across key Indian cities.
@@ -128,8 +128,8 @@ aerodash/
 
 
 👨‍💻 Team AeroDash
-Suchitra Koyya [https://www.linkedin.com/in/suchitra-koyya-605a242b5/]
-Rohith Kumar Jogi [https://www.linkedin.com/in/rohith-kumar-jogi-747a782b8/]
+Suchitra Koyya https://www.linkedin.com/in/suchitra-koyya-605a242b5
+Rohith Kumar Jogi https://www.linkedin.com/in/rohith-kumar-jogi-747a782b8
 
 📢 Let's Connect
 Have suggestions or want to use this for your region?
